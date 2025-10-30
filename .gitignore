@@ -1,0 +1,9 @@
+# Ignore keys and artifacts
+keystore.jks
+keystore.b64
+keystore_info.txt
+
+# Gradle
+/.gradle
+/build
+**/build
